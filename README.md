@@ -1,6 +1,6 @@
 # Election_Analysis
 
-Link to the Analysis and written code: 
+Link to the Analysis and written code: https://github.com/Mishauwa/Election_Analysis/blob/main/PyPoll_Challenge.py
 
 ## Project Overview
 A Colorado Board of Elections employee has given you the following tasks to complete the election audit 
