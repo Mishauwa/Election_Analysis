@@ -44,7 +44,6 @@ The analysis of the election shows that:
 - In total there have been 369.711 votes
 - Below you can find a breakdown of the number of votes and percentage of total votes for each county
 
-  -County Votes:
     - Jefferson: 10.5% (38,855)
     - Denver: 82.8% (306,055)
     - Arapahoe: 6.7% (24,801)
